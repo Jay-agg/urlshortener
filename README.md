@@ -2,9 +2,9 @@
 
 A high-performance URL shortener service built with Go, Fiber, Redis, and Docker. This service provides fast URL shortening with custom aliases, rate limiting, and expiration features.
 
-## 🎥 Demo
+<!-- ## 🎥 Demo -->
 
-**📹 Demo Video:** [Watch on YouTube](https://youtu.be/GqHmJgdy0VI)
+<!-- **📹 Demo Video:** [Watch on YouTube](https://youtu.be/GqHmJgdy0VI) -->
 
 ## 📸 Screenshots
 
